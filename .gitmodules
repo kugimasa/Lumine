@@ -1,0 +1,15 @@
+[submodule "externals/imgui"]
+	path = externals/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "externals/DirectX-Headers"]
+	path = externals/DirectX-Headers
+	url = https://github.com/microsoft/DirectX-Headers.git
+[submodule "externals/assimp"]
+	path = externals/assimp
+	url = https://github.com/assimp/assimp.git
+[submodule "externals/DirectXTex"]
+	path = externals/DirectXTex
+	url = https://github.com/microsoft/DirectXTex.git
+[submodule "externals/fpng"]
+	path = externals/fpng
+	url = https://github.com/richgel999/fpng.git
